@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ol {
+    
+    padding-left: 100px;
+    
+}
+ul {
+    
+    padding-left: 10px;
+    list-style:disc;
+    margin: 20px;
+
+}
+.table {
+    margin: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    font-size: 20px;
+}
+
+
+tr {
+   
+    font-size: 5px;
+
+}
+td{
+    border: 1px solid black;
+    font-size: 15px;
+    text-align:center;
+
+    
+}
+th{
+    border: 1px solid black;
+    font-size: 20px;
+}
+img {
+   width: 30px;
+   height: 20px;
+   object-fit: cover;
+   object-position: top;
+   
+    }
